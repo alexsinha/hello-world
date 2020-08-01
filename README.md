@@ -1,1 +1,1 @@
-# hello-world program in all known programming languages.
+# hello-world program in some programming languages.
